@@ -1,0 +1,66 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&",
+    "icon": "lucide-book-marked"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?",
+    "icon": "lucide-flame"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-folder-open"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~",
+    "icon": "lucide-rocket"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@",
+    "icon": "lucide-webhook"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$",
+    "icon": "lucide-key"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%"
+  },
+  {
+    "char": "'",
+    "color": "197, 71, 255",
+    "icon": "lucide-file-digit",
+    "custom": true
+  },
+  {
+    "char": "\"",
+    "color": "139, 65, 4",
+    "icon": "lucide-badge-check",
+    "custom": true
+  },
+  {
+    "char": "(",
+    "color": "0, 42, 255",
+    "icon": "lucide-bot",
+    "custom": true
+  },
+  {
+    "char": ")",
+    "color": "255, 0, 221",
+    "icon": "lucide-languages",
+    "custom": true
+  },
+  {
+    "char": "ç",
+    "color": "255, 0, 0",
+    "icon": "lucide-bitcoin",
+    "custom": true
+  }
+]

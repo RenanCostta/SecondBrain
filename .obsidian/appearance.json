@@ -1,0 +1,10 @@
+{
+  "accentColor": "#824ce6",
+  "enabledCssSnippets": [
+    "dash",
+    "dashboard"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "cssTheme": "AnuPpuccin"
+}

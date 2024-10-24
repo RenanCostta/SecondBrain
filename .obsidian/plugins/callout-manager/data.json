@@ -1,0 +1,38 @@
+{
+  "callouts": {
+    "custom": [
+      "map"
+    ],
+    "settings": {
+      "map": [
+        {
+          "changes": {
+            "icon": "lucide-map"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "117, 182, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
