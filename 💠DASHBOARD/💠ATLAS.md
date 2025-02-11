@@ -86,7 +86,7 @@ banner_y: 0
 	- 
 	- 
 
-###### Zettels
+###### Daily
 
 ```dataview
 table
