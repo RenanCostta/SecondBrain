@@ -23,41 +23,8 @@
               "icon": "lucide-file",
               "title": "💠ATLAS"
             }
-          },
-          {
-            "id": "33528386d4b1c39c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "6d93f9add4f8a7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-02-11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-11"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +36,6 @@
       {
         "id": "3e50c4f5bdd02a7a",
         "type": "tabs",
-        "dimension": 65.28846153846153,
         "children": [
           {
             "id": "13f912462f8ddc18",
@@ -113,9 +79,8 @@
         ]
       },
       {
-        "id": "570806bab55b56f6",
+        "id": "78d2efceb64ccb41",
         "type": "tabs",
-        "dimension": 34.71153846153846,
         "children": [
           {
             "id": "2d921599adc13844",
@@ -140,7 +105,7 @@
       {
         "id": "a6112fa600b6ab06",
         "type": "tabs",
-        "dimension": 43.94230769230769,
+        "dimension": 61.055444221776895,
         "children": [
           {
             "id": "82e9042392187cba",
@@ -148,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-02-11.md",
+                "file": "💠DASHBOARD/💠ATLAS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-02-11"
+              "title": "Links inversos para 💠ATLAS"
             }
           },
           {
@@ -181,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-02-11.md"
+                "file": "💠DASHBOARD/💠ATLAS.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2025-02-11"
+              "title": "Sumário de 💠ATLAS"
             }
           },
           {
@@ -220,7 +185,7 @@
       {
         "id": "1deb6f6e6f5a0b3f",
         "type": "tabs",
-        "dimension": 56.05769230769231,
+        "dimension": 38.94455577822311,
         "children": [
           {
             "id": "b5ca15326645206c",
@@ -228,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2025-02-11.md",
+                "file": "💠DASHBOARD/💠ATLAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,12 +216,12 @@
                   "repelStrength": 7.70833333333333,
                   "linkStrength": 0.854166666666667,
                   "linkDistance": 45,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.36288736930121257,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 2025-02-11"
+              "title": "Gráfico de 💠ATLAS"
             }
           }
         ]
@@ -276,14 +241,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "6d93f9add4f8a7e3",
+  "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
+    "ZETTELS/2025-02-11.md",
+    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
     "Sem título 2.canvas",
-    "💠DASHBOARD/💠ATLAS.md",
-    "Daily/2025-02-11.md",
     "Daily/2024-09-30-cfmd.md",
-    "Daily",
+    "ZETTELS",
     "Algoritmos e Estruturas de Dados.md",
     "Overview das estruturas de dados.md",
     "Modificadores de acesso.md",
@@ -323,7 +288,7 @@
     "ATTACHMENTS",
     "Notas permanentes",
     "ZETTEL/Sem título",
-    "Daily",
+    "ZETTELS",
     "💠DASHBOARD/ATLAS",
     "Templates"
   ]
