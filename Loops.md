@@ -3,7 +3,7 @@
 
 ### [[for]] 
 
-### [[for-Each]]
+### [[for Each]]
 
 ### [[while]] 
 

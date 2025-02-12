@@ -16,12 +16,61 @@
               "state": {
                 "file": "💠DASHBOARD/💠ATLAS.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "💠ATLAS"
+            }
+          },
+          {
+            "id": "fbb4b4846daccf1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZETTELS/2025-02-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-02-12"
+            }
+          },
+          {
+            "id": "f0ad431c157a1466",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "6ae9ebabb1ba9547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Listas"
             }
           }
         ]
@@ -43,7 +92,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -96,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "right": {
     "id": "38ecac0024270be7",
@@ -146,7 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💠DASHBOARD/💠ATLAS.md"
+                "file": "💠DASHBOARD/💠ATLAS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Sumário de 💠ATLAS"
@@ -228,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405
+    "width": 405,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,43 +298,44 @@
   },
   "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
-    "ZETTELS/2025-02-11.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
+    "Listas.md",
+    "Algoritmos e Estruturas de Dados.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "for Each.md",
+    "Arquivos/Imagens/Pasted image 20250212142219.png",
+    "Loops.md",
+    "Boxing, unboxing e wrapper classes.md",
+    "Arquivos/Imagens/Pasted image 20250212141430.png",
+    "Arquivos/Imagens/Pasted image 20250212132940.png",
+    "Arquivos/Imagens/Pasted image 20250212132106.png",
+    "Arquivos/Imagens/Pasted image 20250212131857.png",
+    "Desalocação de memória.. Garbage collector.md",
+    "Vetores.md",
+    "Arquivos/Imagens/Pasted image 20250212130708.png",
+    "Arquivos/Imagens/Pasted image 20250212130650.png",
+    "Arquivos/Imagens/Pasted image 20250212130641.png",
+    "Arquivos/Imagens/Pasted image 20250212130540.png",
+    "Arquivos/Imagens/Pasted image 20250212130522.png",
+    "Garbage collector.md",
+    "Desalocação Garbage collector.md",
+    "ZETTELS/2025-02-12.md",
+    "Tipo referência  x  Tipo valor.md",
+    "Tipo referência vs. Tipo valor.md",
+    "ZETTELS/2025-02-11.md",
+    "Templates/T zettel T.md",
+    "ZETTELS/Sem título.md",
     "Sem título 2.canvas",
     "Daily/2024-09-30-cfmd.md",
     "ZETTELS",
-    "Algoritmos e Estruturas de Dados.md",
     "Overview das estruturas de dados.md",
     "Modificadores de acesso.md",
-    "Arquivos/Imagens/Pasted image 20250211153552.png",
     "Sobrecarga.md",
     "Encapsulamento.md",
-    "Arquivos/Imagens/Pasted image 20250211153047.png",
-    "Arquivos/Imagens/Pasted image 20250211152954.png",
-    "Arquivos/Imagens/Pasted image 20250211152344.png",
-    "Loops.md",
     "Classe.md",
     "Object e toString().md",
     "Membros estáticos.md",
     "Palavra this.md",
-    "Arquivos/Imagens/Pasted image 20250211151854.png",
-    "Construtores.md",
-    "Arquivos/Imagens/Pasted image 20250211151254.png",
-    "Arquivos/Imagens/Pasted image 20250211151038.png",
-    "Arquivos/Imagens/Pasted image 20250211150831.png",
-    "Arquivos/Imagens/Pasted image 20250211135413.png",
-    "Arquivos/Imagens/Pasted image 20250211134228.png",
-    "Object e toString.md",
-    "Do código a execução.. a magia do JVM.md",
-    "do while.md",
-    "while.md",
-    "for-Each.md",
-    "for.md",
-    "Condicionais.md",
-    "switch.md",
-    "else-if.md",
-    "else.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Sem título 1.canvas",

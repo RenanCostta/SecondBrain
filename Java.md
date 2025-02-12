@@ -51,6 +51,36 @@ ___
 
 ### [[Modificadores de acesso]] 
 
+# Comportamento de memória
+
+### [[Tipo referência  x  Tipo valor]] 
+
+### [[Desalocação de memória.. Garbage collector]]
+
+### [[Vetores]]
+
+### [[Boxing, unboxing e wrapper classes]]
+
+### [[for each]]
+
+### [[Listas]] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
