@@ -1,5 +1,5 @@
 # SecondBrain
-Meu segundo cérebro pelo obsidian
+Meu "segundo cérebro" pelo obsidian
 
 Aqui contém Tópicos, materiais e conteúdos que estudei nos últimos 6 meses (com algumas pausas, é verdade) 
 
