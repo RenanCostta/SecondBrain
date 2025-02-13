@@ -25,6 +25,23 @@
             }
           },
           {
+            "id": "be708d14239d01c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZETTELS/2025-02-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-02-13"
+            }
+          },
+          {
             "id": "f0ad431c157a1466",
             "type": "leaf",
             "pinned": true,
@@ -39,6 +56,21 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Java"
+            }
+          },
+          {
+            "id": "2c8c3e0b5f97c13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Listas"
             }
           }
         ],
@@ -166,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md",
+                "file": "ZETTELS/2025-02-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Java"
+              "title": "Sumário de 2025-02-13"
             }
           },
           {
@@ -182,7 +214,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -199,7 +233,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           }
         ],
@@ -216,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java.md",
+                "file": "ZETTELS/2025-02-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Java"
+              "title": "Gráfico de 2025-02-13"
             }
           }
         ]
@@ -265,14 +299,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "f0ad431c157a1466",
+  "active": "be708d14239d01c9",
   "lastOpenFiles": [
+    "Listas.md",
     "💠DASHBOARD/💠ATLAS.md",
     "ZETTELS/2025-02-13.md",
-    "ZETTELS/2025-02-12.md",
     "Java.md",
+    "ZETTELS/2025-02-12.md",
     "ZETTELS/2025-02-11.md",
-    "Listas.md",
     "Algoritmos e Estruturas de Dados.md",
     "for Each.md",
     "Arquivos/Imagens/Pasted image 20250212142219.png",
