@@ -25,20 +25,20 @@
             }
           },
           {
-            "id": "be708d14239d01c9",
+            "id": "db8a5f5ba650c223",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZETTELS/2025-02-13.md",
+                "file": "ZETTELS/2025-02-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-02-13"
+              "title": "2025-02-14"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELS/2025-02-13.md",
+                "file": "💠DASHBOARD/💠ATLAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2025-02-13"
+              "title": "Sumário de 💠ATLAS"
             }
           },
           {
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ZETTELS/2025-02-13.md",
+                "file": "💠DASHBOARD/💠ATLAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 2025-02-13"
+              "title": "Gráfico de 💠ATLAS"
             }
           }
         ]
@@ -299,11 +299,12 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "be708d14239d01c9",
+  "active": "db8a5f5ba650c223",
   "lastOpenFiles": [
     "Listas.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "ZETTELS/2025-02-13.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "ZETTELS/2025-02-14.md",
     "Java.md",
     "ZETTELS/2025-02-12.md",
     "ZETTELS/2025-02-11.md",
@@ -338,7 +339,6 @@
     "Encapsulamento.md",
     "Classe.md",
     "Object e toString().md",
-    "Membros estáticos.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Sem título 1.canvas",
