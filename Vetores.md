@@ -16,10 +16,10 @@ ___
 
 
 **Vantagens:** 
-- **Acesso imediato aos elementos pela sua posição
+- **Acesso imediato aos elementos pela sua posição**
 
 **desvantagens:**
-- **Tamanho fixo
+- **Tamanho fixo**
 - **Dificuldade para se realizar inserções e deleções**
 
 
