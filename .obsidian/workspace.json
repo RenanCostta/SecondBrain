@@ -25,20 +25,20 @@
             }
           },
           {
-            "id": "ddd6397a948321c1",
+            "id": "b42c34c8f6c5191f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZETTELS/2025-02-15.md",
+                "file": "ZETTELS/2025-02-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-02-15"
+              "title": "2025-02-17"
             }
           },
           {
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294,
+    "width": 278,
     "collapsed": true
   },
   "right": {
@@ -299,12 +299,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "ddd6397a948321c1",
+  "active": "b42c34c8f6c5191f",
   "lastOpenFiles": [
-    "💠DASHBOARD/💠ATLAS.md",
-    "ZETTELS/2025-02-15.md",
     "Data-Hora Java.md",
+    "ZETTELS/2025-02-17.md",
+    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
+    "Arquivos/Imagens/Pasted image 20250217090449.png",
+    "ZETTELS/2025-02-15.md",
     "Listas.md",
     "Matrizes.md",
     "for Each.md",
@@ -326,7 +328,6 @@
     "Arquivos/Imagens/Pasted image 20250212130650.png",
     "Arquivos/Imagens/Pasted image 20250212130641.png",
     "Arquivos/Imagens/Pasted image 20250212130540.png",
-    "Arquivos/Imagens/Pasted image 20250212130522.png",
     "Garbage collector.md",
     "Desalocação Garbage collector.md",
     "Tipo referência  x  Tipo valor.md",
@@ -337,8 +338,6 @@
     "Daily/2024-09-30-cfmd.md",
     "ZETTELS",
     "Overview das estruturas de dados.md",
-    "Modificadores de acesso.md",
-    "Sobrecarga.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Sem título 1.canvas",
