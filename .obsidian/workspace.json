@@ -25,31 +25,31 @@
             }
           },
           {
-            "id": "b42c34c8f6c5191f",
+            "id": "315b12b28654b371",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZETTELS/2025-02-17.md",
+                "file": "ZETTELS/2025-02-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-02-17"
+              "title": "2025-02-18"
             }
           },
           {
-            "id": "f0ad431c157a1466",
+            "id": "237c85af49adb49a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Java.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "2dd81fdc6366d568",
+            "id": "9ecce63f6bac021b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -299,15 +299,21 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "b42c34c8f6c5191f",
+  "active": "9ecce63f6bac021b",
   "lastOpenFiles": [
-    "Data-Hora Java.md",
-    "ZETTELS/2025-02-17.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "ZETTELS/2025-02-18.md",
+    "Listas.md",
+    "Overview das estruturas de dados.md",
+    "Algoritmos e Estruturas de Dados.md",
+    "Tipos de dados e Variáveis.md",
+    "Loops.md",
+    "for.md",
+    "ZETTELS/2025-02-17.md",
+    "Data-Hora Java.md",
     "Arquivos/Imagens/Pasted image 20250217090449.png",
     "ZETTELS/2025-02-15.md",
-    "Listas.md",
     "Matrizes.md",
     "for Each.md",
     "Boxing, unboxing e wrapper classes.md",
@@ -317,9 +323,7 @@
     "ZETTELS/2025-02-13.md",
     "ZETTELS/2025-02-12.md",
     "ZETTELS/2025-02-11.md",
-    "Algoritmos e Estruturas de Dados.md",
     "Arquivos/Imagens/Pasted image 20250212142219.png",
-    "Loops.md",
     "Arquivos/Imagens/Pasted image 20250212141430.png",
     "Arquivos/Imagens/Pasted image 20250212132940.png",
     "Arquivos/Imagens/Pasted image 20250212132106.png",
@@ -333,11 +337,8 @@
     "Tipo referência  x  Tipo valor.md",
     "Tipo referência vs. Tipo valor.md",
     "Templates/T zettel T.md",
-    "ZETTELS/Sem título.md",
     "Sem título 2.canvas",
-    "Daily/2024-09-30-cfmd.md",
     "ZETTELS",
-    "Overview das estruturas de dados.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Sem título 1.canvas",
