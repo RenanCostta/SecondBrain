@@ -1,10 +1,10 @@
 
  Existem quatro tipos de loops em Java, `for`, `forEach`, `while`, e `do...while`.
 
- ###  [[for]] 
+ ###  [[Loop for]] 
 
-### [[for Each]]
+### [[Loop for Each]]
 
-### [[while]] 
+### [[Loop while]] 
 
-### [[do while]]
+### [[Loop do while]]

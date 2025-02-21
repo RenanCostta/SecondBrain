@@ -14,8 +14,6 @@ Em JavaScript, as variáveis são como recipientes que armazenam informações. 
 
 ## [[Identificadores]] 
 
-Em JavaScript, identificadores são nomes que você dá para variáveis, funções e objetos. Para garantir que seu código funcione corretamente, existem algumas regras sobre o que você **pode** e **não pode** usar ao criar identificadores:
-
 
 # Tratamento de Dados
 

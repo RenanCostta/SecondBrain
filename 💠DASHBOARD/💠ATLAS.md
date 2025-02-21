@@ -18,8 +18,8 @@ banner_y: 0
 	- 
 	- 
 
-- ç InfoSec
-	- 
+- ç "Distros"
+	- [[Linux]] 
 	- 
 	- 
 	- 

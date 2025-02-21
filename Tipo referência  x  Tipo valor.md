@@ -8,7 +8,7 @@ ___
 
 **Classes são tipos referência**:
 
- - Variáveis cujo tipo são classes, não deve ser entendidas como caixa, mas sim como "Ponteiros" que apontam para a a caixa.** 
+ - **Variáveis cujo tipo são classes, não deve ser entendidas como caixa, mas sim como "Ponteiros" que apontam para a a caixa**.
 
 Exemplo:
 
