@@ -29,7 +29,7 @@ ___
 ![[Pasted image 20250221162910.png]]
 
 
-- **Conversão de Strings para enum:
+- **Conversão de Strings para enum:**
 
 ![[Pasted image 20250221163302.png]]
 

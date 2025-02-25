@@ -30,7 +30,7 @@ banner_y: 0
 	- 
 	- 
 
-###### Programming Language and tools
+###### Programming Language, tools and Computer Programming
 - & Fundamentals
 	- [[Java]]
 	- [[JavaScript]]
@@ -42,6 +42,13 @@ banner_y: 0
 	- [[Cloud AWS]]
 	- [[Microsoft Azure]]
 	- [[HTML CSS TB]]
+
+- ~ Web Programming
+	- [[Backend]]
+	- [[Frontend]]
+	- [[DataBase]]
+	- 
+
 ###### English
 - )  Elements
 	- [[To speak]]

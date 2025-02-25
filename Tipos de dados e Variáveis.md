@@ -1,6 +1,6 @@
 
 **Data:** 2025-02-11
-**keyboards:** 
+**keyboards:** #variáveisJava #tiposDeDadosJava #tipoPrimitivos #tiposReferência 
 **links internos:** 
 ___
 # Variáveis em Java
