@@ -54,6 +54,17 @@ Arquivos enviados "Commited"
 
 Um branch no Git é uma ramificação do código principal que permite aos desenvolvedores trabalhar em áreas isoladas para desenvolver recursos, corrigir erros ou experimentar novas ideias
 
+
+# Git bash comands
+
+## Conventional commits
+
+![[Pasted image 20250227153129.png]]
+
+
+
+
+
 # GitHub 
 ## O que é GitHub
 

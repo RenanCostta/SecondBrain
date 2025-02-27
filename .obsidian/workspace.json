@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "READ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "78d2efceb64ccb41",
@@ -206,6 +207,10 @@
   },
   "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
+    "README.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "Git e GitHub.md",
+    "Arquivos/Imagens/Pasted image 20250227153129.png",
     "Fundamentos de Cloud Computing.md",
     "Arquivos/Imagens/Pasted image 20250227134434.png",
     "Arquivos/Imagens/Pasted image 20250227133716.png",
@@ -213,7 +218,6 @@
     "Data Centers.md",
     "Cloud Computing.md",
     "Programação orientada a objetos (POO).md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
     "Do código a execução.. a magia do JVM.md",
     "Um pouco sobre Design em Java.md",
@@ -231,7 +235,6 @@
     "Arquivos/Imagens/Pasted image 20250221164107.png",
     "Arquivos/Imagens/Pasted image 20250221164026.png",
     "Um pouco sobre Design.md",
-    "Arquivos/Imagens/Pasted image 20250221163350.png",
     "Listas.md",
     "Boxing, unboxing e wrapper classes.md",
     "Desalocação de memória.. Garbage collector.md",
@@ -240,7 +243,6 @@
     "Sobrecarga.md",
     "Encapsulamento.md",
     "Palavra this.md",
-    "Construtores.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
