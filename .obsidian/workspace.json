@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "💠DASHBOARD/💠ATLAS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -25,51 +25,22 @@
             }
           },
           {
-            "id": "ef019935ac1bb938",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "2daf9a552b2f5fa7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "d7e5b71850e7a302",
+            "id": "181bc9b1afe91af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do código a execução.. a magia do JVM.md",
-                "mode": "preview",
+                "file": "Fundamentos de Cloud Computing.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Do código a execução.. a magia do JVM"
+              "title": "Fundamentos de Cloud Computing"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,16 +220,20 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "d7e5b71850e7a302",
+  "active": "181bc9b1afe91af2",
   "lastOpenFiles": [
+    "Data Centers.md",
+    "Fundamentos de Cloud Computing.md",
+    "Cloud Computing.md",
+    "Programação orientada a objetos (POO).md",
+    "💠DASHBOARD/💠ATLAS.md",
     "Java.md",
+    "Do código a execução.. a magia do JVM.md",
     "Um pouco sobre Design em Java.md",
     "Enumerações.md",
     "Algoritmos e Estruturas de Dados.md",
     "Tipo referência  x  Tipo valor.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Redes de computadores.md",
-    "Do código a execução.. a magia do JVM.md",
     "Tipos de Variáveis em Java.md",
     "Tipos de dados e Variáveis.md",
     "Composição.md",
@@ -283,10 +258,6 @@
     "Arquivos/Imagens/Pasted image 20250221135806.png",
     "Construtores.md",
     "Membros estáticos.md",
-    "Object e toString().md",
-    "Loops.md",
-    "Classe.md",
-    "Loop do while.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
