@@ -23,6 +23,23 @@
               "icon": "lucide-file",
               "title": "💠ATLAS"
             }
+          },
+          {
+            "id": "65c067db83c733f1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Java"
+            }
           }
         ]
       }
@@ -207,8 +224,17 @@
   },
   "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
-    "README.md",
+    "Palavra this.md",
+    "Java.md",
+    "Classe.md",
+    "Object e toString().md",
+    "Objetos em Java.md",
+    "Arquivos/Imagens/Pasted image 20250228092739.png",
+    "Arquivos/Imagens/Pasted image 20250228090227.png",
+    "Características principais.md",
+    "Para que serve o Java.md",
     "💠DASHBOARD/💠ATLAS.md",
+    "README.md",
     "Git e GitHub.md",
     "Arquivos/Imagens/Pasted image 20250227153129.png",
     "Fundamentos de Cloud Computing.md",
@@ -218,7 +244,6 @@
     "Data Centers.md",
     "Cloud Computing.md",
     "Programação orientada a objetos (POO).md",
-    "Java.md",
     "Do código a execução.. a magia do JVM.md",
     "Um pouco sobre Design em Java.md",
     "Enumerações.md",
@@ -232,17 +257,9 @@
     "Arquivos/Imagens/Pasted image 20250221184016.png",
     "Arquivos/Imagens/Pasted image 20250221183953.png",
     "Arquivos/Imagens/Pasted image 20250221164155.png",
-    "Arquivos/Imagens/Pasted image 20250221164107.png",
-    "Arquivos/Imagens/Pasted image 20250221164026.png",
     "Um pouco sobre Design.md",
     "Listas.md",
     "Boxing, unboxing e wrapper classes.md",
-    "Desalocação de memória.. Garbage collector.md",
-    "Vetores.md",
-    "Modificadores de acesso.md",
-    "Sobrecarga.md",
-    "Encapsulamento.md",
-    "Palavra this.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",

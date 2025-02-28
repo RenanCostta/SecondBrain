@@ -50,4 +50,4 @@ Em Java, a palavra-chave `this` é uma referência ao objeto atual. Ela é usada
 	- Ele permite a reutilização de código e a criação de construtores mais flexiveis.
 	- Torna possivel que os objetos passem a si mesmo como parâmetros para outros métodos.
 
-Ao entender o uso do ==this==, você pode escrever código Java mais claro conciso e eficiente.
+Ao entender o uso do ==this==, você pode escrever código Java mais claro conciso e eficiente. 
