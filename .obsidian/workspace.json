@@ -41,7 +41,8 @@
               "title": "Java"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +223,9 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "29e3e442bbe12d17",
+  "active": "65c067db83c733f1",
   "lastOpenFiles": [
+    "💠DASHBOARD/💠ATLAS.md",
     "Palavra this.md",
     "Java.md",
     "Classe.md",
@@ -233,7 +235,6 @@
     "Arquivos/Imagens/Pasted image 20250228090227.png",
     "Características principais.md",
     "Para que serve o Java.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "README.md",
     "Git e GitHub.md",
     "Arquivos/Imagens/Pasted image 20250227153129.png",
