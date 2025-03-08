@@ -3,7 +3,10 @@
 **keyboards:** 
 **links internos:** 
 ___
-# Classes
+# O que é uma Classe?
+
+No mundo real, você frequentemente encontrará muitos objetos individuais, todos do mesmo tipo. Pode haver milhares de outras bicicletas existentes, todas da mesma marca e modelo. cada bicicleta foi construída a partir do mesmo conjunto de projetos e, portanto, contém os mesmos componentes. Em termos orientados a objetos, dizemos que sua bicicleta é uma instância de uma classe de objetos conhecida como bicicletas. Uma classe é o projeto a partir do qual objetos individuais são criados.
+
 
 - É um tipo estruturado que pode conter (membros):
 	- Atributos (Dados/campos)
