@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,11 +253,12 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "5f47e71614a6beb0",
+  "active": "9cfc1519419c7d34",
   "lastOpenFiles": [
     "Upcasting e Downcasting.md",
-    "Java.md",
     "Herança.md",
+    "Arquivos/Imagens/Pasted image 20250311161406.png",
+    "Java.md",
     "Polimorfismo.md",
     "💠DASHBOARD/💠ATLAS.md",
     "StringBuilder.md",
@@ -287,10 +288,8 @@
     "Programação orientada a objetos (POO).md",
     "Do código a execução.. a magia do JVM.md",
     "Um pouco sobre Design em Java.md",
-    "Algoritmos e Estruturas de Dados.md",
     "Arquivos/Imagens/Pasted image 20250221163302.png",
     "Arquivos/Imagens/Pasted image 20250221184016.png",
-    "Arquivos/Imagens/Pasted image 20250221183953.png",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
