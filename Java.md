@@ -43,6 +43,10 @@ ___
 
 #### [[Modificadores de acesso]] 
 
+#### [[Herança]]
+
+#### [[Polimorfismo]]
+
 # Comportamento de memória
 
 #### [[Tipo referência  x  Tipo valor]] 
