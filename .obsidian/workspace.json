@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -41,8 +41,7 @@
               "title": "Java"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,11 +222,13 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "d258a1cad4a3410d",
+  "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
+    "Java.md",
+    "StringBuilder.md",
+    "Arquivos/Imagens/Pasted image 20250311092758.png",
     "Objetos em Java.md",
     "Classe.md",
-    "Java.md",
     "💠DASHBOARD/💠ATLAS.md",
     "Características principais.md",
     "Tipos primitivos JS.md",
@@ -255,12 +256,9 @@
     "Algoritmos e Estruturas de Dados.md",
     "Tipo referência  x  Tipo valor.md",
     "Redes de computadores.md",
-    "Tipos de Variáveis em Java.md",
-    "Tipos de dados e Variáveis.md",
     "Arquivos/Imagens/Pasted image 20250221163302.png",
     "Arquivos/Imagens/Pasted image 20250221184016.png",
     "Arquivos/Imagens/Pasted image 20250221183953.png",
-    "Arquivos/Imagens/Pasted image 20250221164155.png",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
