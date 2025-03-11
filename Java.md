@@ -45,6 +45,7 @@ ___
 
 #### [[Herança]]
 
+#### [[Upcasting e Downcasting]]
 #### [[Polimorfismo]]
 
 # Comportamento de memória

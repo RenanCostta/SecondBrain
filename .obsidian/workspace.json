@@ -55,9 +55,24 @@
               "icon": "lucide-file",
               "title": "Herança"
             }
+          },
+          {
+            "id": "5f47e71614a6beb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upcasting e Downcasting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Upcasting e Downcasting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,11 +253,12 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "d258a1cad4a3410d",
+  "active": "5f47e71614a6beb0",
   "lastOpenFiles": [
+    "Upcasting e Downcasting.md",
+    "Java.md",
     "Herança.md",
     "Polimorfismo.md",
-    "Java.md",
     "💠DASHBOARD/💠ATLAS.md",
     "StringBuilder.md",
     "Arquivos/Imagens/Pasted image 20250311092758.png",
@@ -272,7 +288,6 @@
     "Do código a execução.. a magia do JVM.md",
     "Um pouco sobre Design em Java.md",
     "Algoritmos e Estruturas de Dados.md",
-    "Tipo referência  x  Tipo valor.md",
     "Arquivos/Imagens/Pasted image 20250221163302.png",
     "Arquivos/Imagens/Pasted image 20250221184016.png",
     "Arquivos/Imagens/Pasted image 20250221183953.png",
