@@ -70,7 +70,7 @@ Existem diferentes modelos de implantação de nuvem, dependendo do nível de co
 
 ## Nuvem Pública
 
-A implantação de nuvem pública é um modelo de computação em nuvem que permite o compartilhamento de recursos entre vários usuários.
+As nuvens públicas são aquelas nas quais os provedores de serviços disponibilizam todos os recursos, como computação, armazenamento e aplicativos para o público em geral pela internet. Qualquer usuário pode efetuar login e usar esses serviços. Você paga pelo número de recursos que usa. Nesse modelo, os Usuários possuem menos controle sobre seus dados. 
 
 **Como funciona**:
 - Um provedor de serviços de nuvem terceirizado é responsável por fornecer, operar e gerenciar os recursos de nuvem
@@ -79,12 +79,19 @@ A implantação de nuvem pública é um modelo de computação em nuvem que per
 
 - Os usuários podem acessar os serviços e gerenciar suas contas através de um navegador da web
 
-- **Vantagens**: escalabilidade, custo reduzido, manutenção gerenciada pelo provedor.
+- **Vantagens**: 
+	- escalabilidade 
+	- performance
+	- custo reduzido 
+	- manutenção gerenciada pelo provedor.
 
-- **Desvantagens**: menor controle sobre segurança e configuração.
+- **Desvantagens**: 
+	- menor controle sobre segurança e configuração.
 
 
 ## Nuvem Privada
+
+As nuvens privadas são ambientes de nuvem construídos exclusivamente para um único usuário, ou uma única empresa, normalmente localizados por trás do firewall do usuário. 
 
 - Infraestrutura dedicada a uma única organização, podendo estar hospedada localmente ou em um data center terceirizado.
 
@@ -96,6 +103,8 @@ A implantação de nuvem pública é um modelo de computação em nuvem que per
 
 
 ## Nuvem Híbrida 
+
+As nuvens híbridas são aquelas constituídas pelos serviços da nuvem pública e privada. Alguns serviços são hospedados na nuvem privada, enquanto outras na nuvem pública. Assim, a empresa pode manter dados cruciais na nuvem privada e outros dados na nuvem pública, aproveitando o melhor dos dois mundos.
 
 - Combina nuvem Pública e privada, permitindo que dados e aplicativos sejam compartilhados entre ambas.
 
@@ -160,6 +169,9 @@ Os serviços em nuvem são classificados em três modelos principais:
 
 ![[Pasted image 20250227134434.png]]
 
+## Reponsabilidades para cada categoria de Serviço
+
+![[Pasted image 20250312170245.png]]
 
 
 # 7. Tecnologias e Ferramentas Populares

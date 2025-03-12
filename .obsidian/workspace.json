@@ -42,22 +42,38 @@
             }
           },
           {
-            "id": "aabe06de41a5cbba",
+            "id": "b8f7b9521481f128",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
+            }
+          },
+          {
+            "id": "dfcd0442b23cc753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polimorfismo.md",
+                "file": "Fundamentos de Cloud Computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Polimorfismo"
+              "title": "Fundamentos de Cloud Computing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polimorfismo.md",
+                "file": "💠DASHBOARD/💠ATLAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Polimorfismo"
+              "title": "Sumário de 💠ATLAS"
             }
           },
           {
@@ -237,11 +253,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "aabe06de41a5cbba",
+  "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
-    "Java.md",
-    "Polimorfismo.md",
+    "Cloud Computing.md",
+    "Fundamentos de Cloud Computing.md",
     "💠DASHBOARD/💠ATLAS.md",
+    "Java.md",
+    "Arquivos/Imagens/Pasted image 20250312170245.png",
+    "Polimorfismo.md",
     "Arquivos/Imagens/Pasted image 20250312161158.png",
     "Arquivos/Imagens/Pasted image 20250312160759.png",
     "Arquivos/Imagens/Pasted image 20250312160740.png",
@@ -254,7 +273,6 @@
     "Arquivos/Imagens/Pasted image 20250312094451.png",
     "Arquivos/Imagens/Pasted image 20250312094206.png",
     "Arquivos/Imagens/Pasted image 20250312094136.png",
-    "Arquivos/Imagens/Pasted image 20250312094103.png",
     "Herança.md",
     "Upcasting e Downcasting.md",
     "StringBuilder.md",
@@ -270,9 +288,7 @@
     "Palavra this.md",
     "Object e toString().md",
     "README.md",
-    "Fundamentos de Cloud Computing.md",
     "Data Centers.md",
-    "Cloud Computing.md",
     "Programação orientada a objetos (POO).md",
     "Sem título 2.canvas",
     "ZETTELS",
