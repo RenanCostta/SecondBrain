@@ -14,7 +14,8 @@ Isso significa que a subclasse pode reutilizar o código da superclasse, evitand
 
 - **SubClasse (classe filha)**: Herda os atributos e métodos da superclasse e pode adicionar seus próprios atributos e métodos exclusivos.
 
-- **A palavra chave "extends"**: É usada para indicar que uma classe está herdando de outra. por exemplo: ==publica class BusinessAccount extends Account {...}==
+- **A palavra chave "extends"**: É usada para indicar que uma classe está herdando de outra. por exemplo:
+- ==public class BusinessAccount extends Account {...}==
 
 
 # Utilidade da Herança:
