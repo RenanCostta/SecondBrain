@@ -42,36 +42,22 @@
             }
           },
           {
-            "id": "10df63e64ba71798",
+            "id": "2df3897ee8919f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polimorfismo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Polimorfismo"
-            }
-          },
-          {
-            "id": "b8d8305ca07d3e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes abstratas.md",
+                "file": "Métodos abstratos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Classes abstratas"
+              "title": "Métodos abstratos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,11 +237,15 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "29e3e442bbe12d17",
+  "active": "2df3897ee8919f38",
   "lastOpenFiles": [
+    "Métodos abstratos.md",
     "Java.md",
-    "Polimorfismo.md",
+    "💠DASHBOARD/💠ATLAS.md",
     "Classes abstratas.md",
+    "Polimorfismo.md",
+    "Overview das estruturas de dados.md",
+    "Algoritmos e Estruturas de Dados.md",
     "Arquivos/Imagens/Pasted image 20250313152955.png",
     "Arquivos/Imagens/Pasted image 20250313152915.png",
     "Upcasting e Downcasting.md",
@@ -264,7 +254,6 @@
     "Herança.md",
     "Cloud Computing.md",
     "Fundamentos de Cloud Computing.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Arquivos/Imagens/Pasted image 20250312170245.png",
     "Arquivos/Imagens/Pasted image 20250312161158.png",
     "Arquivos/Imagens/Pasted image 20250312160759.png",
@@ -286,8 +275,6 @@
     "Enumerações.md",
     "Palavra this.md",
     "Object e toString().md",
-    "README.md",
-    "Data Centers.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",

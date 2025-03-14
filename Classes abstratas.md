@@ -30,7 +30,7 @@ Notação UML: itálico
 
 - Resposta: 
 	- **Reuso**
-	- **Polimorfismo**: a super classe classe genérica nos permite tratar de forma fácil e uniforme todos os tipos de conta, inclusive com polimorfismo se for o caso. Por exemplo, você pode colocar todos tipos de contas em uma mesma coleção.
+	- **Polimorfismo**: a superclasse genérica nos permite tratar de forma fácil e uniforme todos os tipos de conta, inclusive com polimorfismo se for o caso. Por exemplo, você pode colocar todos tipos de contas em uma mesma coleção.
 
 
 - **Demo: Suponha que você queira**:
