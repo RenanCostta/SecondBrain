@@ -30,13 +30,17 @@ As instruções das linguagens de alto nível são bastante abstratas e não est
 
 ___
 
-# [[Variáveis em python]]
+# Variáveis em python
 
 Variáveis em Python são como recipientes que armazenam dados, como números, textos ou listas. Elas permitem que você nomeie e acesse esses dados facilmente no seu código, tornando-o mais organizado e flexível. Pense nelas como etiquetas que você coloca em diferentes tipos de informação para encontrá-las depois.
 
 
+## *[[Tipos de variáveis em python]]*
 
-## [[Conceito de amarração (binding)]]
+Python é uma linguagem dinamicamente tipada, o que significa que você pode não precisar declarar explicitamente o tipo de uma variável. O python infere o tipo de dado com base no valor a ela.
+
+
+## *[[Conceito de amarração (binding)]]*
 
 Amarração em Python é basicamente como dar um nome a um objeto na memória do computador. Imagine que você guarda um objeto numa caixa e coloque uma etiqueta nela. A etiqueta é o nome (variável) e a caixa com o objeto é o espaço na memória. Essa etiqueta te permite acessar e usar o objeto no seu código.
 
@@ -47,38 +51,12 @@ ___
 Em Python, uma condicional é como uma pergunta que você faz ao programa.
 Se a resposta for "sim" (verdadeira), o programa faz uma coisa. Se a resposta for não (falsa), ele pode fazer outra coisa ou simplesmente seguir em frente.
 
-
-## Condição simples e composta
+## *[[Condição simples e composta em python]]*
 
 Em python, as condições são usadas para controlar o fluxo do seu programa, permitindo que ele tome decisões. Elas podem ser simples ou compostas:
 
-### Condição Simples
 
-- Usa apenas a palavra-chave ==if==.
-- Executa um bloco de código **Se** a condição for verdadeira. se for falsa, pula o bloco.
-- é como uma porta que só abre se você tiver a chave certa.
 
-```
-idade = 20
-if idade >= 18:
-  print("Você pode dirigir!")
-```
-
-### Condição composta
-
-- Usa ==if== e ==else==.
-- Executa um bloco de código **se** for verdadeira e **outro** bloco for falsa.
-- É como um caminho com uma bifurcação: pode pode pegar um caminho se a condição for verdadeira e outra se for falsa.
-
-```
-idade = 15
-if idade >= 18:
-  print("Você pode dirigir!")
-else:
-  print("Você ainda não pode dirigir.")
-```
-
-Em resumo, a diferença principal é que a condição ***composta*** sempre executa um dos blocos de código, enquanto a ***simples*** pode não executar nenhum.
 
 
 

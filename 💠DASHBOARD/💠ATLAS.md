@@ -37,16 +37,22 @@ banner_y: 0
 	- [[Python]]
 	- [[HTML e CSS]]
 
+- ~ Web Programming
+	- [[Backend]]
+	- [[Frontend]]
+	- [[DataBase]]
+	- 
+
 - $ Tools
 	- [[Git e GitHub]]
 	- [[Cloud AWS]]
 	- [[Microsoft Azure]]
 	- [[HTML CSS TB]]
 
-- ~ Web Programming
-	- [[Backend]]
-	- [[Frontend]]
-	- [[DataBase]]
+- $ Tools II
+	- [[Power BI com python]]
+	- 
+	- 
 	- 
 
 ###### English

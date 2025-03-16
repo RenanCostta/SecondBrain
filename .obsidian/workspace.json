@@ -42,18 +42,20 @@
             }
           },
           {
-            "id": "2df3897ee8919f38",
+            "id": "1926d5a17a678820",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Métodos abstratos.md",
-                "mode": "source",
+                "file": "Power BI com python.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Métodos abstratos"
+              "title": "Power BI com python"
             }
           }
         ],
@@ -237,11 +239,22 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "2df3897ee8919f38",
+  "active": "1926d5a17a678820",
   "lastOpenFiles": [
-    "Métodos abstratos.md",
-    "Java.md",
+    "Processo de BI.md",
+    "Arquivos/Imagens/Pasted image 20250315105410.png",
+    "Power BI com python.md",
+    "O que é BI (Business intelligence).md",
     "💠DASHBOARD/💠ATLAS.md",
+    "Java.md",
+    "Python.md",
+    "Condição simples e composta em python.md",
+    "Condicionais em python.md",
+    "Interpretada.md",
+    "Tipos de variáveis em python.md",
+    "Variáveis em python.md",
+    "Conceito de amarração (binding).md",
+    "Métodos abstratos.md",
     "Classes abstratas.md",
     "Polimorfismo.md",
     "Overview das estruturas de dados.md",
@@ -262,19 +275,7 @@
     "Arquivos/Imagens/Pasted image 20250312102139.png",
     "Arquivos/Imagens/Pasted image 20250312101938.png",
     "Arquivos/Imagens/Pasted image 20250312094534.png",
-    "Arquivos/Imagens/Pasted image 20250312094451.png",
     "StringBuilder.md",
-    "Objetos em Java.md",
-    "Classe.md",
-    "Características principais.md",
-    "Tipos primitivos JS.md",
-    "JavaScript.md",
-    "Variáveis JS.md",
-    "Tipo referência vs. Tipo valor.md",
-    "Para que serve o Java.md",
-    "Enumerações.md",
-    "Palavra this.md",
-    "Object e toString().md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
