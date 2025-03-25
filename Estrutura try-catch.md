@@ -16,3 +16,6 @@ ___
 # Sintaxe:
 
 ![[Pasted image 20250325122720.png]]
+
+
+![[Pasted image 20250325124242.png]]
