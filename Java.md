@@ -83,6 +83,10 @@ ___
 
 #### [[Composição]]
 
+# Tratamento de exceções 
+
+#### [[Discussão inicial de tratamentos de exceção]]
+
 
 
 
