@@ -68,5 +68,17 @@
     "color": "0, 110, 255",
     "icon": "lucide-airplay",
     "custom": true
+  },
+  {
+    "char": "^",
+    "color": "251, 111, 111",
+    "icon": "lucide-activity-square",
+    "custom": true
+  },
+  {
+    "char": "; ",
+    "color": "0, 255, 51",
+    "icon": "lucide-circle-dollar-sign",
+    "custom": true
   }
 ]

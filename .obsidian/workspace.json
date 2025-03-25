@@ -25,41 +25,21 @@
             }
           },
           {
-            "id": "d258a1cad4a3410d",
+            "id": "361835479f51b435",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "1926d5a17a678820",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power BI com python.md",
+                "file": "Mental Health.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Power BI com python"
+              "title": "Mental Health"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +210,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir visualização em gráfico": false,
       "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
@@ -239,14 +219,20 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "1926d5a17a678820",
+  "active": "29e3e442bbe12d17",
   "lastOpenFiles": [
+    "Mental Health.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "luz azul.md",
+    "Physical Health.md",
+    "To speak.md",
+    "Java.md",
+    "Health.md",
+    "Composição.md",
+    "Power BI com python.md",
     "Processo de BI.md",
     "Arquivos/Imagens/Pasted image 20250315105410.png",
-    "Power BI com python.md",
     "O que é BI (Business intelligence).md",
-    "💠DASHBOARD/💠ATLAS.md",
-    "Java.md",
     "Python.md",
     "Condição simples e composta em python.md",
     "Condicionais em python.md",
@@ -264,18 +250,13 @@
     "Upcasting e Downcasting.md",
     "Classes e Métodos final.md",
     "Sobreposição, palavra super e anotação @Override.md",
-    "Herança.md",
-    "Cloud Computing.md",
-    "Fundamentos de Cloud Computing.md",
     "Arquivos/Imagens/Pasted image 20250312170245.png",
     "Arquivos/Imagens/Pasted image 20250312161158.png",
     "Arquivos/Imagens/Pasted image 20250312160759.png",
     "Arquivos/Imagens/Pasted image 20250312160740.png",
-    "Git e GitHub.md",
     "Arquivos/Imagens/Pasted image 20250312102139.png",
     "Arquivos/Imagens/Pasted image 20250312101938.png",
     "Arquivos/Imagens/Pasted image 20250312094534.png",
-    "StringBuilder.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",

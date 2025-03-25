@@ -5,7 +5,7 @@ cssclasses:
 banner_x: 0.5
 banner_y: 0
 ---
-###### Computer Science
+#### Computer Science
 - @ Fundation
 	- [[Algoritmos e Estruturas de Dados]] 
 	- [[Redes de computadores]] 
@@ -30,7 +30,7 @@ banner_y: 0
 	- 
 	- 
 
-###### Programming Language, tools and Computer Programming
+#### Programming Language, tools and Computer Programming
 - & Fundamentals
 	- [[Java]]
 	- [[JavaScript]]
@@ -55,7 +55,7 @@ banner_y: 0
 	- 
 	- 
 
-###### English
+#### English
 - )  Elements
 	- [[To speak]]
 	- [[Negative Sentences]]
@@ -74,7 +74,7 @@ banner_y: 0
 	- 
 	- 
 
-###### Math
+#### Math
 - !  Matemática Básica I
 	- [[Álgebra 1]] 
 	- [[Álgebra 2]]
@@ -98,6 +98,17 @@ banner_y: 0
 	- 
 	- 
 	- 
+
+#### Personal Development
+
+- @ Health
+	- [[Physical Health]]
+	- [[Mental Health]]
+	- [[Spiritual health]] 
+
+- ;  professional career
+	- [[Beginning...]] 
+
 
 ###### Daily
 
