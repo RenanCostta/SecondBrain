@@ -59,18 +59,18 @@
             }
           },
           {
-            "id": "c78308ab39b8c493",
+            "id": "fb600c70ebe88e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discussão inicial de tratamentos de exceção.md",
+                "file": "Estrutura try-catch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Discussão inicial de tratamentos de exceção"
+              "title": "Estrutura try-catch"
             }
           }
         ],
@@ -254,13 +254,16 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "c78308ab39b8c493",
+  "active": "fb600c70ebe88e74",
   "lastOpenFiles": [
-    "Arquivos/Imagens/Pasted image 20250325121009.png",
-    "Discussão inicial de tratamentos de exceção.md",
+    "Arquivos/Imagens/Pasted image 20250325122720.png",
     "Java.md",
-    "ZETTELS/2025-03-25.md",
+    "Upcasting e Downcasting.md",
+    "Discussão inicial de tratamentos de exceção.md",
     "💠DASHBOARD/💠ATLAS.md",
+    "ZETTELS/2025-03-25.md",
+    "Estrutura try-catch.md",
+    "Arquivos/Imagens/Pasted image 20250325121009.png",
     "Physical Health.md",
     "Composição.md",
     "Enumerações.md",
@@ -281,8 +284,6 @@
     "Conceito de amarração (binding).md",
     "Métodos abstratos.md",
     "Classes abstratas.md",
-    "Polimorfismo.md",
-    "Overview das estruturas de dados.md",
     "Arquivos/Imagens/Pasted image 20250313152955.png",
     "Arquivos/Imagens/Pasted image 20250313152915.png",
     "Arquivos/Imagens/Pasted image 20250312170245.png",
@@ -291,7 +292,6 @@
     "Arquivos/Imagens/Pasted image 20250312160740.png",
     "Arquivos/Imagens/Pasted image 20250312102139.png",
     "Arquivos/Imagens/Pasted image 20250312101938.png",
-    "Arquivos/Imagens/Pasted image 20250312094534.png",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",

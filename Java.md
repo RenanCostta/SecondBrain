@@ -87,9 +87,7 @@ ___
 
 #### [[Discussão inicial de tratamentos de exceção]]
 
-
-
-
+#### [[Estrutura try-catch]] 
 
 
 
