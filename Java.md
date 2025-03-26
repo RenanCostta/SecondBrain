@@ -91,6 +91,10 @@ ___
 
 #### [[Pilhas de chamadas de métodos (stack trace)]]
 
+#### [[Bloco finally]]
+
+#### [[Criando exceções personalizadas]]  
+
 
 
 
