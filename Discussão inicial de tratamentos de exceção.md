@@ -8,7 +8,7 @@ ___
 
 - Uma exceção é qualquer condição de erro ou comportamento inesperado encontrado por um programa em **execução**.
 
-- Em Java, uma exceção é um objetos herdado da classe:
+- Em Java, uma exceção é um objeto herdado da classe:
 	- java.lang.Exception - o compilador obrigada a tratar ou propagar
 	- java.lang.RuntimeException - o compilador não obriga a tratar ou propagar
 
