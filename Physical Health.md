@@ -6,7 +6,7 @@ ___
 
 # Feed: 
 
-Antes de mais nada, meu objetivo é consumir menos de 2000 calorias por dia. 2000 calorias de comida LIMPA.
+Antes de mais nada, meu objetivo é consumir menos de 2300 calorias por dia. 2300 calorias de comida LIMPA.
 
 Irei dividir minha alimentação diária em 5 refeições:
 
