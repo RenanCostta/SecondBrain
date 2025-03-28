@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 278,
+    "collapsed": true
   },
   "right": {
     "id": "38ecac0024270be7",
@@ -240,9 +241,10 @@
   },
   "active": "b49bceab4091d6d4",
   "lastOpenFiles": [
-    "ZETTELS/2025-03-28.md",
-    "Java.md",
     "Criando exceções personalizadas.md",
+    "Arquivos/Imagens/Pasted image 20250328124511.png",
+    "Java.md",
+    "ZETTELS/2025-03-28.md",
     "Daily routine of studies.md",
     "Bloco finally.md",
     "💠DASHBOARD/💠ATLAS.md",
@@ -273,9 +275,7 @@
     "Arquivos/Imagens/Pasted image 20250326150621.png",
     "Arquivos/Imagens/Pasted image 20250326114833.png",
     "luz azul.md",
-    "Arquivos/Imagens/Pasted image 20250326114444.png",
     "Estrutura try-catch.md",
-    "ZETTELS/2025-03-25.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
