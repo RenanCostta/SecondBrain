@@ -25,23 +25,41 @@
             }
           },
           {
-            "id": "21535cf65ab22a5b",
+            "id": "1b23f4837b946ad7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZETTELS/2025-03-27.md",
+                "file": "ZETTELS/2025-03-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-03-27"
+              "title": "2025-03-28"
+            }
+          },
+          {
+            "id": "b49bceab4091d6d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Java"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +238,21 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "29e3e442bbe12d17",
+  "active": "b49bceab4091d6d4",
   "lastOpenFiles": [
-    "ZETTELS/2025-03-27.md",
+    "ZETTELS/2025-03-28.md",
+    "Java.md",
+    "Criando exceções personalizadas.md",
+    "Daily routine of studies.md",
+    "Bloco finally.md",
     "💠DASHBOARD/💠ATLAS.md",
+    "Beginning....md",
+    "Spiritual health.md",
+    "ZETTELS/2025-03-27.md",
+    "Pilhas de chamadas de métodos (stack trace).md",
+    "Discussão inicial de tratamentos de exceção.md",
+    "Do código a execução.. a magia do JVM.md",
+    "O ciclo de vida de um programa Java.md",
     "ZETTELS/2025-03-26.md",
     "Fundamentos de Cloud Computing.md",
     "Cloud Computing.md",
@@ -242,22 +271,11 @@
     "Lesson 1 - Content and exercises.md",
     "Arquivos/Imagens/Pasted image 20250326150736.png",
     "Arquivos/Imagens/Pasted image 20250326150621.png",
-    "Java.md",
-    "Criando exceções personalizadas.md",
     "Arquivos/Imagens/Pasted image 20250326114833.png",
     "luz azul.md",
-    "Discussão inicial de tratamentos de exceção.md",
     "Arquivos/Imagens/Pasted image 20250326114444.png",
-    "Bloco finally.md",
     "Estrutura try-catch.md",
-    "Pilhas de chamadas de métodos (stack trace).md",
     "ZETTELS/2025-03-25.md",
-    "Upcasting e Downcasting.md",
-    "Composição.md",
-    "Enumerações.md",
-    "Mental Health.md",
-    "Health.md",
-    "Power BI com python.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",

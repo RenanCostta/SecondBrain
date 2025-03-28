@@ -109,8 +109,9 @@ banner_y: 0
 
 - ;  professional career
 	- [[Beginning...]] 
-
-
+	- 
+	- 
+	- 
 ###### Daily
 
 ```dataview
