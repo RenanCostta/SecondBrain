@@ -96,6 +96,9 @@ ___
 
 #### [[Criando exceções personalizadas]]  
 
+# Trabalhando com arquivos
+
+#### [[Lendo arquivo texto com as classes File Scanner]]
 
 
 
