@@ -100,6 +100,8 @@ ___
 
 #### [[Lendo arquivo texto com as classes File Scanner]]
 
+#### [[FIleReader e BufferedReader]]
+
 
 
 
