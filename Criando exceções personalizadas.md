@@ -35,7 +35,7 @@ Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, 
 - **Ainda não há auxílio do compilador: o programador deve lembrar de verificar se houve erro**.
 - **A lógica fica estruturada em condicionais aninhadas**.
 
-### Solução 3 (boa): Tratamento de exceções com [[try-catch]]
+### Solução 3 (boa): Tratamento de exceções com [[Estrutura try-catch]]
 
 ![[Pasted image 20250328124511.png]]
 

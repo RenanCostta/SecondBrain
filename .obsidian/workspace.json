@@ -25,23 +25,6 @@
             }
           },
           {
-            "id": "1b23f4837b946ad7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZETTELS/2025-03-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-03-28"
-            }
-          },
-          {
             "id": "b49bceab4091d6d4",
             "type": "leaf",
             "pinned": true,
@@ -59,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,12 +225,13 @@
   "active": "b49bceab4091d6d4",
   "lastOpenFiles": [
     "Criando exceções personalizadas.md",
-    "Arquivos/Imagens/Pasted image 20250328124511.png",
     "Java.md",
+    "💠DASHBOARD/💠ATLAS.md",
+    "Python.md",
     "ZETTELS/2025-03-28.md",
+    "Arquivos/Imagens/Pasted image 20250328124511.png",
     "Daily routine of studies.md",
     "Bloco finally.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Beginning....md",
     "Spiritual health.md",
     "ZETTELS/2025-03-27.md",
