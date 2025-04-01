@@ -31,6 +31,21 @@ Importante usar o commit apenas para os marcos importantes no seu projeto, evite
 
 Para você realizar o commit, o arquivo primeiro precisa passar por 3 estágios. são eles:
 
+## Logs
+
+Em Git, logs referem-se ao histórico de commits de um repositório. Os comandos principais para visualizar esse logs são:
+
+- git log
+- git log --oneline | logs de forma resumida , uma linha por commit
+- git log -n2 | visualizar as duas ultimas mudanças
+- git log -n2 --oneline
+- git log --oneline --graph --all | para visualizar branches
+- git log --exemple.txt | exibir logs de um arquivo específico
+- git log -p | ver as mudanças feitas em cada commit
+- git revert HEAD | desfazer o ultimo commit
+
+O `git log` é útil para rastrear alterações, entender o histórico do projeto e até mesmo desfazer mudanças caso necessário.
+
 ### 3 Estágios do Commit
 
 #### MODIFIED
