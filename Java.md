@@ -102,6 +102,9 @@ ___
 
 #### [[FIleReader e BufferedReader]]
 
+#### [[Bloco try-with-resources]] 
+
+
 
 
 
