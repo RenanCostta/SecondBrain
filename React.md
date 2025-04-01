@@ -5,3 +5,5 @@
 ___
 
 ##### [[O que é React]]
+
+react é ruim

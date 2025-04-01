@@ -41,8 +41,7 @@
               "title": "Frontend"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,14 +222,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "9a9abefed2a3eba1",
+  "active": "d969068e8b68ac63",
   "lastOpenFiles": [
+    "Frontend.md",
+    "React.md",
     "Git e GitHub.md",
     "💠DASHBOARD/💠ATLAS.md",
-    "Frontend.md",
     "O que é Vue.js.md",
     "O que é React.md",
-    "React.md",
     "Vue.js.md",
     "TypeScript.md",
     "O que é o TypeScript.md",
