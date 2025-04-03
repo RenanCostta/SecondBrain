@@ -21,13 +21,12 @@ ___
 
 ## *[[Conceito de amarração (binding)]]*
 
-___
+
 
 # Condicionais em python
 
 ## *[[Condição simples e composta em python]]*
 
-___
 
 # Métodos em Python (Funções)
 
@@ -38,17 +37,22 @@ Os métodos básicos em Python são operações que podem ser realizadas em obj
 
 ___
 
-# Listas
+# Listas:
 
 ## [[Listas em Python]]
 
-___
-
-# Dicionários
+# Dicionários:
 
 #### [[Dicionários em python]]
 
 #### [[Métodos úteis do Dicionário]]
+
+# Tuplas:
+#### [[Tuplas em python]]
+
+
+
+
 
 
 

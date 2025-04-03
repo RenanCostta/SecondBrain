@@ -40,23 +40,9 @@
               "icon": "lucide-file",
               "title": "Python"
             }
-          },
-          {
-            "id": "bc1d33759448564e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dicionários em python.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dicionários em python"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,16 +223,17 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "d969068e8b68ac63",
+  "active": "d69946fbfd703427",
   "lastOpenFiles": [
+    "Tuplas em python.md",
     "Python.md",
+    "💠DASHBOARD/💠ATLAS.md",
     "Dicionários em python.md",
     "Métodos úteis do Dicionário.md",
     "Arquivos/Imagens/Pasted image 20250403092016.png",
     "Arquivos/Imagens/Pasted image 20250403091910.png",
     "Arquivos/Imagens/Pasted image 20250403091826.png",
     "Listas em Python.md",
-    "💠DASHBOARD/💠ATLAS.md",
     "Métodos de lista.md",
     "Arquivos/Imagens/Pasted image 20250402103553.png",
     "Arquivos/Imagens/Pasted image 20250402103510.png",
@@ -269,7 +256,6 @@
     "o que é o Sass.md",
     "Sass.md",
     "jQuery.md",
-    "O que é o jQuery.md",
     "Arquivos/Imagens/Pasted image 20250331223421.png",
     "Arquivos/Imagens/Pasted image 20250331182204.png",
     "Arquivos/Imagens/Pasted image 20250328124511.png",
