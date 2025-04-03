@@ -42,6 +42,14 @@ ___
 
 ## [[Listas em Python]]
 
+___
+
+# Dicionários
+
+#### [[Dicionários em python]]
+
+#### [[Métodos úteis do Dicionário]]
+
 
 
 
