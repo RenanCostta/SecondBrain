@@ -56,6 +56,9 @@ ___
 
 #### [[Métodos sets python]]
 
+# Operadores
+
+#### [[Operadores em python]]
 
 
 
