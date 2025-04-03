@@ -50,8 +50,11 @@ ___
 # Tuplas:
 #### [[Tuplas em python]]
 
+# sets:
 
+#### [[sets python]]
 
+#### [[Métodos sets python]]
 
 
 
