@@ -8,22 +8,23 @@ ___
 
 ### Monday:
 
-- 10:00h - 12:20h : **[[Java]]**.
-- 14:10h - 16:10h : **Inglês**.
+- 08:50h - 12:20h : **Java-Backend**
+- 14:10h - 16:10h : **[[Frontend]]**
 
 ### Tuesday:
 
-- 10:00h - 12:20h : **[[Java]]**.
+- 08:50h - 12:20h : **Java-Backend**
 - 14:10h - 16:10h : [[Python]]
 ### Wednesday:
 
-- 10:00h - 12:20h : **[[Java]]**.
-- 14:10h - 16:10h : **Inglês**.
+- 08:50h - 12:20h : **Java-Backend**
+- 14:10h - 16:10h : **[[Frontend]]**.
 ### Thursday:
 
-- 10:00h - 12:20h : **[[Java]]**.
-- 14:10h - 16:10h : **[[Python]]**
+- 08:50h - 12:20h : **Java-Backend**
+- 14:10h - 16:10h : **[[Frontend]]**
 ### Friday:
 
-- 10:00h - 12:20h : **[[Java]]**.
+- 08:50h - 12:20h : **Java-Backend**
 - 14:10h - 16:10h : **[[Python]]**.
+### Saturday:
