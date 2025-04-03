@@ -56,9 +56,17 @@ ___
 
 #### [[Métodos sets python]]
 
-# Operadores
+# Operadores:
 
 #### [[Operadores em python]]
+
+# Range:
+#### [[Range em python]]
+
+
+
+
+
 
 
 
