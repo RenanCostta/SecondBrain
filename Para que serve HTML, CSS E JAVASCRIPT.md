@@ -3,8 +3,8 @@ Umas das coisas mais importantes para quem está começando o desenvolvimento de
 
 
 - HTML = **CONTEÚDO
-- CSS = **ESTILO
-- [[JavaScript]] = INTERATIVIDADE
+- CSS = **ESTILO**
+- [[JavaScript]] = **INTERATIVIDADE** 
 
 
 Guarde bem a tabela anterior sempre que você precisar decidir qual linguagem vai utilizar em cada situação.
