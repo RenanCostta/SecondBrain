@@ -50,7 +50,7 @@ banner_y: 0
 	- [[HTML CSS TB]]
 
 - $ Tools II
-	- [[Power BI com python]]
+	- 
 	- 
 	- 
 	- 
@@ -100,7 +100,7 @@ banner_y: 0
 	- 
 	- 
 
-#### Personal Development
+#### Personal and Professional Development
 
 - @ Health
 	- [[Physical Health]]
@@ -112,6 +112,18 @@ banner_y: 0
 	- 
 	- 
 	- 
+
+- ? Stacks and hardskills
+	-  [[Power BI com python]]
+	- [[Análise de dado com pandas e SQL]]
+	- 
+	- 
+
+
+
+
+
+
 ###### Daily
 
 ```dataview
