@@ -6,6 +6,8 @@ ___
 **Visão geral sobre estruturas de dados:**
 ### Big O notation
 
+
+
 ### Arrays 
 
 ### Linked Lists
