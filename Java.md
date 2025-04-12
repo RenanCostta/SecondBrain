@@ -68,9 +68,14 @@ ___
 
 #### [[Loop for Each]]
 
-#### [[Listas]] 
-
 #### [[Matrizes]]
+
+# Coleções - Collections
+##### [[o que é collections em Java]]
+
+#### [[List - listas]] 
+
+#### [[Map]]
 
 # Tópicos especiais Java
 

@@ -115,15 +115,15 @@ banner_y: 0
 
 - ? Stacks and hardskills
 	-  [[Power BI com python]]
-	- [[Análise de dado com pandas e SQL]]
+	- [[Análise de dados com pandas e SQL]]
 	- 
 	- 
 
-
-
-
-
-
+- $ Others skills 
+	- 
+	- 
+	- 
+	- 
 ###### Daily
 
 ```dataview

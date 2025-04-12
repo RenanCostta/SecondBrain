@@ -25,21 +25,34 @@
             }
           },
           {
-            "id": "3580bb1715082eb2",
+            "id": "ba8bbad1e45545c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de dado com pandas e SQL.md",
+                "file": "Análise de dados com pandas e SQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Análise de dado com pandas e SQL"
+              "title": "Análise de dados com pandas e SQL"
+            }
+          },
+          {
+            "id": "d55d85314c3f374a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-12 10.22.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-12 10.22.23.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "78d2efceb64ccb41",
@@ -217,47 +229,48 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false
+      "random-note:Abrir nota aleatória": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d969068e8b68ac63",
+  "active": "ba8bbad1e45545c9",
   "lastOpenFiles": [
-    "Análise de dado com pandas e SQL.md",
+    "Excalidraw/Drawing 2025-04-12 10.22.23.excalidraw.md",
+    "Análise de dados com pandas e SQL.md",
     "💠DASHBOARD/💠ATLAS.md",
+    "Arquivos/Imagens/Pasted image 20250412113923.png",
+    "Arquivos/Imagens/Pasted image 20250412113106.png",
+    "Arquivos/Imagens/Pasted image 20250412111721.png",
+    "Arquivos/Imagens/Pasted image 20250412105721.png",
+    "Arquivos/Imagens/Pasted image 20250412105250.png",
+    "Java.md",
+    "Classes e Métodos final.md",
+    "Excalidraw",
+    "Campanha de Tráfego para Loja de moveis.md",
+    "HashMap.md",
+    "Polimorfismo.md",
+    "Map.md",
+    "LinkedHashMap.md",
+    "TreeMap.md",
+    "List - listas.md",
+    "o que é collections em Java.md",
+    "LinkedList.md",
+    "ArrayList.md",
+    "Arquivos/Imagens/Pasted image 20250408085131.png",
+    "Arquivos/Imagens/Pasted image 20250408084624.png",
+    "Matrizes.md",
+    "Boxing, unboxing e wrapper classes.md",
+    "Daily routine of studies.md",
+    "Beginning....md",
     "loop for em python.md",
     "Arquivos/Imagens/Pasted image 20250404084918.png",
     "Arquivos/Imagens/Pasted image 20250404084908.png",
     "Overview das estruturas de dados.md",
     "Algoritmos e Estruturas de Dados.md",
     "Python.md",
-    "Java.md",
     "loop while em python.md",
-    "Daily routine of studies.md",
-    "Beginning....md",
     "Arquivos/Imagens/Pasted image 20250403120438.png",
-    "Arquivos/Imagens/Pasted image 20250403120349.png",
-    "Arquivos/Imagens/Pasted image 20250403120254.png",
     "if elif  e else em python.md",
-    "Range em python.md",
-    "Arquivos/Imagens/Pasted image 20250403111950.png",
-    "Operadores em python.md",
-    "Métodos sets python.md",
-    "sets python.md",
-    "Tuplas em python.md",
-    "Dicionários em python.md",
-    "Métodos úteis do Dicionário.md",
-    "Arquivos/Imagens/Pasted image 20250403092016.png",
-    "Arquivos/Imagens/Pasted image 20250403091910.png",
-    "Arquivos/Imagens/Pasted image 20250403091826.png",
-    "Listas em Python.md",
-    "Métodos de lista.md",
-    "Arquivos/Imagens/Pasted image 20250402103553.png",
-    "Métodos de String.md",
-    "O que é a Linguagem Python.md",
-    "Interpretada.md",
-    "Frontend.md",
-    "HTML e CSS.md",
-    "React.md",
     "Sem título 2.canvas",
     "ZETTELS",
     "Arquivos/Imagens",
@@ -269,7 +282,6 @@
     "Notas permanentes",
     "ZETTEL/Sem título",
     "ZETTELS",
-    "💠DASHBOARD/ATLAS",
-    "Templates"
+    "💠DASHBOARD/ATLAS"
   ]
 }
