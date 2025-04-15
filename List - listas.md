@@ -19,8 +19,7 @@ ___
 	- **Tamanho variável**.
 	- **Facilidade para se realizar inserções e deleções**.
 - **Desvantagens**:
-	- **Acesso sequencial aos elementos**. * 
-
+	- **Acesso sequencial aos elementos**.
 
 # Demo 
 
@@ -35,8 +34,10 @@ ___
 	- Integer result = list.stream().filter(x -> x > 4).findFirst().orElse(null);
 
 
-# Assuntos pendentes:
 
-- **Interfaces**.
-- **Generics**.
-- **Predicados (lambda)**.
+# Diferenças entre ArrayList e LinkedList
+
+- [[ArrayList]]: É maios rápido quando utilizado para consultar, já para inserção e exclusão, são mais lentas.
+
+- [[LinkedList]]: É mais rápido quando utilizado para inclusão e exclusão de dados com um grande volume de dados. Também pode ser utilizado como [[Queue - Filas]].
+

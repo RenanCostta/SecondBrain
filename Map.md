@@ -14,6 +14,6 @@ ___
 Uso comum: ***cookies, local storage, qualquer modelo chave-valor***.
 
 Principais implementações:
-- **[[HashMap]]** - mias rápido (operações O(1) em tabela hash) e não ordenado.
+- **[[HashMap]]** - mais rápido (operações O(1) em tabela hash) e não ordenado.
 - **[[TreeMap]]** - mais lento (operações O(log(n) em árvore rubro-negra) e ordenado pelo compareTo do objeto (ou comparator)
 - **[[LinkedHashMap]]** - velocidade intermediária e elementos na ordem em que são adicionados

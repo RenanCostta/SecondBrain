@@ -77,6 +77,10 @@ ___
 
 #### [[Map]]
 
+#### [[Queue - Filas]]
+
+#### [[Set]]
+
 # Tópicos especiais Java
 
 #### [[Data-Hora Java]]

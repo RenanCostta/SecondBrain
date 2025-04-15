@@ -25,3 +25,17 @@ ___
 
 ![[Pasted image 20250412113106.png]]
 
+
+
+___
+
+# Differences between series and dataframe
+
+## Series: 
+
+- as series is basically as columns of data. she is unidimensional, like a vector (array) of numpy (lib of python), but with rules 
+
+### Characteristics:
+
+- Each value have a associate indices. 
+- can have any Data Type (int, float, string, objects, etc).
